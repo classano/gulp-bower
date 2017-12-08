@@ -6,7 +6,8 @@ Everythin will be saved in a assets folder in the root.
 ```<link href="assets/css/all.min.css" media="all" rel="stylesheet" />```
 ```<script src="assets/js/vendor.min.js"></script>
 <script src="assets/js/global.min.js"></script>
-...```
+...
+```
 
 ### Install
 ```$ cd _build```
