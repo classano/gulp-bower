@@ -16,6 +16,7 @@ Everythin will be saved in a assets folder in the root.
 ```$ cd _build```
 
 ```$ npm install && bower install```
+
 Downloads all nessesary node packages and the following bower packages:
 - jquery
 - jquery-ui
@@ -28,5 +29,5 @@ All settings are made in ```config.json```
 ### Use
 ```$ cd _build```
 
-```gulp```
+```$ gulp```
 
