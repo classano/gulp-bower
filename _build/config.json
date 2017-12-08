@@ -1,0 +1,24 @@
+{
+	"sass": [
+		"assets/sass/main.scss"
+	],
+	"js": {
+		"vendor": [
+			"bower_components/jquery/dist/jquery.min.js",
+			"bower_components/bootstrap-sass-official/assets/javascripts/bootstrap.min.js"
+		],
+		"watchFolders": [
+			"global"
+		]
+	},
+	"fonts": {
+		"fontAwesome": {
+			"src": "bower_components/fontawesome/fonts/**/*",
+			"dst": "../assets/fonts/"
+		},
+		"bootstrap": {
+			"src": "bower_components/bootstrap-sass-official/assets/fonts/bootstrap/**/*",
+			"dst": "../assets/fonts/bootstrap/"
+		}
+	}
+}

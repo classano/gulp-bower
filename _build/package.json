@@ -1,0 +1,26 @@
+{
+	"name": "ClaesGulp",
+	"version": "1.0.0",
+	"description": "Main Gulpfile",
+	"main": "gulpfile.js",
+	"dependencies": {},
+	"devDependencies": {
+		"gulp": "latest",
+		"gulp-bump": "latest",
+		"gulp-color": "0.0.1",
+		"gulp-concat": "latest",
+		"gulp-concat-css": "latest",
+		"gulp-if": "^2.0.2",
+		"gulp-jshint": "^2.0.4",
+		"gulp-clean-css": "latest",
+		"gulp-notify": "latest",
+		"gulp-rename": "latest",
+		"gulp-sass": "latest",
+		"gulp-sourcemaps": "^1.6.0",
+		"gulp-uglify": "latest",
+		"jshint": "^2.9.4",
+		"jshint-stylish": "^2.2.0"
+	},
+	"author": "Claes Noren",
+	"license": "AGPL - Free to use"
+}

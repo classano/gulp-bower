@@ -1,0 +1,24 @@
+{
+  "name": "ClaesBower",
+  "version": "1.0.0",
+  "authors": [
+    "Claes Norén"
+  ],
+  "license": "AGPL - Free to use",
+  "homepage": "http://www.nitea.se",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+    "jquery": "latest",
+    "jquery-ui": "latest",
+    "fontawesome": "latest",
+    "bootstrap-sass-official": "latest"
+  }
+}
