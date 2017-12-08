@@ -3,6 +3,7 @@ Gulpfile with connection for jQuery, bootstrap sass, fontawesome with bower.
 
 With this setup you will work with JavaScript and SASS/CSS in _build folder. 
 Everythin will be saved in a assets folder in the root.
+
 ```<link href="assets/css/all.min.css" media="all" rel="stylesheet" />```
 
 ```
